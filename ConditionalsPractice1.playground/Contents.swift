@@ -13,6 +13,10 @@ import UIKit
 
 //5.6 __ 5.5
 
+//"hello" __ "dog"
+
+//"Danny" = "Danny"
+
 
 //Replace the '__' with comparison operators to make the following statements false
 //Try to use a different comparison operator each time
@@ -25,20 +29,19 @@ import UIKit
 
 //3.3 __ 3.5
 
-
+//"frog" __ "prince"
 
 
 //-----------------------------------------------------------------------------------
 
 
-//replace the blank with a conditional statement so that the lunch invitation is only printed if isHungry is true
+//replace the blank with a conditional statement so that the lunch invitation is only printed if isHungry is true. Change the boolean in the isHungry variable to check and see if your conditional statement works.
+
 var isHungry = false
 
 //if __________ {
 //    print("Do you want to grab some lunch?")
 //}
-
-
 
 
 
