@@ -15,7 +15,7 @@ import UIKit
 
 //"hello" __ "dog"
 
-//"Danny" = "Danny"
+//"Danny" __ "Danny"
 
 
 //Replace the '__' with comparison operators to make the following statements false
@@ -44,10 +44,19 @@ var isHungry = false
 //}
 
 
+//replace the blank with a conditional statement that tests to see if a number is positive or negative.
+var firstNumber: Int // = ______
+
+//if __________ {
+//    print("That number is negative!")
+//} else {
+//    print("That number is positive!")
+//}
+
 
 
 //replace the blank with a conditional statement that tests to see if a number is even. Hint: the % operator might be useful here.
-var number: Int // = ______
+var secondNumber: Int // = ______
 
 //if __________ {
 //    print("That number is even!")
